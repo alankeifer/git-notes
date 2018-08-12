@@ -44,12 +44,18 @@
     ## Bypass staging area
     >> git commit -am "commiting directly to repo" 
     Note: 
-     Disadvantage of directly commiting --> "-a" option will commit all 
-     the changes that we have done in the working area. We may accidently 
-     end up commiting changes from other edited files to the repo. 
+     Disadvantage of directly commiting : 
+     
+     i) "-a" option will commit all the changes that we have done in the 
+        working area. We may accidently end up commiting changes from other
+	edited files to the repo. 
+     ii) helpful only when we are editing/modifying existing files. 
+    
+12. Restore a copy of file from Repository (Basically getting a previous good
+    version of file and making it the current working copy) 
+    >> git checkout -- file_name_to_restore 
 
-12.      
-12.
+13.     
 
 
    
