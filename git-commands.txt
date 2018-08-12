@@ -40,7 +40,11 @@
 10. Renaming files : 
     git mv old_name new_name 
 
-11. 
+11. Commiting directly to repo without placing the files in staging area. 
+    ## Bypass staging area
+    >> git commit -am "commiting directly to repo" 
+
+12.
 
 
    
