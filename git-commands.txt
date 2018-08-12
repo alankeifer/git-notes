@@ -66,13 +66,14 @@
 13. Connect a remote repo to your local system git bash.   
    >> git remote add Alias_for_YourRepoOnGit your_public_repo_url.git 
 
-14. List Remore repo 
+14. List Remote repo 
    >> git remote 
 
 15. Pushing your files to public repo
     >> git push -u Alais_for_YourRepoOnGit  
 
-16.     
+16. Pull changes to your local machine
+    >> git pull Alais_for_YourRepoOnGit
 
    
 
