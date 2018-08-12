@@ -3,12 +3,12 @@
    >> git init  
 
 2. add username and email 
-   >> git config user.name="alan keifer" 
-   >> git config user.email="keifer.alan@gmail.com" 
+   >> git config user.name="username" 
+   >> git config user.email="username@gmail.com" 
 
 3. Check git logs: 
    >> git log
-   >> git log --author="alan" 
+   >> git log --author="username" 
 
 4. Add files to staging area: 
    >> git add . 
