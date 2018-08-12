@@ -24,4 +24,13 @@
    and the ones already in repository. 
    >> git diff 
 
+8. Once you modify a working copy of a file and do a "git add filename" 
+   then a "git diff filename"  will not show any differences that you have
+   made.  
+   
+   "git diff" compares only the working copy and the file in repo. 
+   "git diff --staged" compares the files in staging area and ones in repo. 
+
+
+   
 
