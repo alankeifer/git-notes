@@ -43,7 +43,12 @@
 11. Commiting directly to repo without placing the files in staging area. 
     ## Bypass staging area
     >> git commit -am "commiting directly to repo" 
+    Note: 
+     Disadvantage of directly commiting --> "-a" option will commit all 
+     the changes that we have done in the working area. We may accidently 
+     end up commiting changes from other edited files to the repo. 
 
+12.      
 12.
 
 
