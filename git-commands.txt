@@ -1,6 +1,7 @@
 
 1. make a directory/repo to be tracked by git 
-   >> git init  
+   >>cd dirname    // directory which we want to be tracked by git. 
+   >>git init  
 
 2. add username and email 
    >> git config user.name="username" 
@@ -55,7 +56,7 @@
     version of file and making it the current working copy) 
     >> git checkout -- file_name_to_restore 
 
-13.     
+
 
 
    
