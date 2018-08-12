@@ -55,8 +55,19 @@
     version of file and making it the current working copy) 
     >> git checkout -- file_name_to_restore 
 
-13.     
+## ====================================================================== ##
+   ## Working With GitHub## 
 
+13. Connect a remote repo to your local system git bash.   
+   >> git remote add Alias_for_YourRepoOnGit your_public_repo_url.git 
+
+14. List Remore repo 
+   >> git remote 
+
+15. Pushing your files to public repo
+    >> git push -u Alais_for_YourRepoOnGit  
+
+16.     
 
    
 
