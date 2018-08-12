@@ -20,6 +20,8 @@
 6. Check status : 
    >> git status  
 
-   
+7. List differences between the working copy of file 
+   and the ones already in repository. 
+   >> git diff 
 
 
