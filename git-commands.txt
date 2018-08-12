@@ -1,14 +1,15 @@
 
 1. make a directory/repo to be tracked by git 
-   >> git init  
+   >>cd dirname    // directory which we want to be tracked by git. 
+   >>git init  
 
 2. add username and email 
-   >> git config user.name="alan keifer" 
-   >> git config user.email="keifer.alan@gmail.com" 
+   >> git config user.name="username" 
+   >> git config user.email="username@gmail.com" 
 
 3. Check git logs: 
    >> git log
-   >> git log --author="alan" 
+   >> git log --author="username" 
 
 4. Add files to staging area: 
    >> git add . 
@@ -55,8 +56,12 @@
     version of file and making it the current working copy) 
     >> git checkout -- file_name_to_restore 
 
+<<<<<<< HEAD
 ## ====================================================================== ##
    ## Working With GitHub## 
+=======
+
+>>>>>>> 5c3c08078203957a38bf2b1e00221511b6c7acfb
 
 13. Connect a remote repo to your local system git bash.   
    >> git remote add Alias_for_YourRepoOnGit your_public_repo_url.git 
