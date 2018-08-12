@@ -37,7 +37,10 @@
    VVI : Whenever we do a "git rm" , we must do a "git commit" after that. 
    This will help to recover the deleted file if we need.  
 
-10.    
+10. Renaming files : 
+    git mv old_name new_name 
+
+11. 
 
 
    
