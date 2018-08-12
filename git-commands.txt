@@ -1,0 +1,25 @@
+
+1. make a directory/repo to be tracked by git 
+   >> git init  
+
+2. add username and email 
+   >> git config user.name="alan keifer" 
+   >> git config user.email="keifer.alan@gmail.com" 
+
+3. Check git logs: 
+   >> git log
+   >> git log --author="alan" 
+
+4. Add files to staging area: 
+   >> git add . 
+   >> git add filename
+
+5. Do a commit :
+   >> git commit -m "1st commit" 
+
+6. Check status : 
+   >> git status  
+
+   
+
+
