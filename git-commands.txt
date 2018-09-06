@@ -70,7 +70,7 @@
    >> git remote 
 
 15. Pushing your files to public repo
-    >> git push -u Alais_for_YourRepoOnGit  
+    >> git push -u Alais_for_YourRepoOnGit master
 
 16. Pull changes to your local machine
     >> git pull Alais_for_YourRepoOnGit
