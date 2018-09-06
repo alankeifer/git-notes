@@ -4,8 +4,8 @@
    >>git init  
 
 2. add username and email 
-   >> git config user.name="username" 
-   >> git config user.email="username@gmail.com" 
+   >>  git config --global  user.name = "username"
+   >> git config --global user.email = "username@gmail.com" 
 
 3. Check git logs: 
    >> git log
